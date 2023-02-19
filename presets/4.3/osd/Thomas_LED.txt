@@ -1,8 +1,8 @@
-#$ TITLE: Thomas LED
+#$ TITLE: Thomas OSD
 #$ FIRMWARE_VERSION: 4.3
-#$ CATEGORY: LED
-#$ STATUS: PRIVATE
-#$ KEYWORDS: Thomas, LED
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Thomas, OSD
 #$ AUTHOR: Thomas von Liptak
 
 #$ PARSER: MARKED
