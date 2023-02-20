@@ -1,0 +1,11 @@
+#$ TITLE: Thomas Preset
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Thomas, Adjustment
+#$ AUTHOR: Thomas von Liptak
+#$ DESCRIPTION: Installs Thomas ADJUSTEMENT settings 
+
+# adjrange
+adjrange 0 0 1 900 2100 29 1 0 0
+adjrange 1 0 5 900 2100 12 5 0 0
