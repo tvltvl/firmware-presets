@@ -849,6 +849,54 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/osd/Thomas start preset LED - BOB57.txt",
+      "hash": "ffe46adae6f0eeb31e302686c15ab75b0600c9dc3a417a907059ac39fed8270a",
+      "title": "Thomas Preset",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "LED"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset LED Chimera 7.txt",
+      "hash": "8dfbdbbee158288e769735035bdaf93ee2486faf3d089fd9b3c4f2b8fd30143e",
+      "title": "Thomas Preset",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "LED"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset LED Nazgul F5.txt",
+      "hash": "85c94d6074845bfda21c6782163e2d6cabf5a904189bae09eaffcd548a97a3a8",
+      "title": "Thomas Preset",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "LED"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/Thomas start preset LED.txt",
       "hash": "77d88666d7e5cea5a503ef909efd68172bb794997b5ebf360d9a59abd2b67584",
       "title": "Thomas Preset",
