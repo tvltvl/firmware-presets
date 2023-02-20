@@ -1,0 +1,23 @@
+#$ TITLE: Thomas Preset
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Thomas, LED
+#$ AUTHOR: Thomas von Liptak
+#$ DESCRIPTION: Installs Thomas LED settings 
+
+
+
+# led
+led 0 0,0::L:6
+led 1 1,0::L:6
+led 2 2,0::L:6
+led 3 3,0::L:6
+led 4 4,0::L:6
+led 5 5,0::G:6
+led 6 6,0::G:6
+led 7 7,0::G:6
+
+# color
+color 5 91,0,255
+color 6 108,0,255
