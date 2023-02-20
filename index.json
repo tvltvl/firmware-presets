@@ -825,41 +825,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Thomas_AUX.txt",
-      "hash": "9a29e5e2c69ccbfd2ef59e1a442fa00a6f6ef87f47b3076099e1ad3d654ad7b9",
-      "title": "Thomas OSD",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "OSD"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas_LED.txt",
-      "hash": "2273899cde7d9a66db9edddfa2715a3d8856564ad10918e66dba96eeb1a4a877",
-      "title": "Thomas OSD",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "OSD"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas_OSD.txt",
-      "hash": "2fef79ecbd9e062ab5bd6707bee32c31ed077720b5e09884cd5e903854a736a6",
-      "title": "Thomas OSD",
+      "fullPath": "presets/4.3/osd/Thomas start preset OSD.txt",
+      "hash": "e05469de4a53380347967088f6c8d0dc268baa81f2d43e684fff3f2f3dfb5b23",
+      "title": "Thomas Preset",
       "firmware_version": [
         "4.3"
       ],
