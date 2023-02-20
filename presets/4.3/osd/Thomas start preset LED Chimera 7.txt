@@ -1,4 +1,4 @@
-#$ TITLE: Thomas Preset
+#$ TITLE: Thomas Preset LEDS Chimera 7
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: LEDS
 #$ STATUS: COMMUNITY

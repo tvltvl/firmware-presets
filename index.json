@@ -897,22 +897,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED.txt",
-      "hash": "77d88666d7e5cea5a503ef909efd68172bb794997b5ebf360d9a59abd2b67584",
-      "title": "Thomas Preset",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LED"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/osd/Thomas start preset MODES.txt",
       "hash": "bbcbaac97c522ce7c279732462b85f116777b8b02436b4e291b67482870f0c66",
       "title": "Thomas Preset",
