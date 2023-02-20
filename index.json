@@ -236,6 +236,7 @@
       "acro",
       "Acrobaix",
       "actual",
+      "Adjustment",
       "adjustments",
       "air unit",
       "AlexFPV",
@@ -822,6 +823,38 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset ADJUSTMENT.txt",
+      "hash": "cef64547e64bae3e82443f4ea55dce99e8d0ac7a478b45036e517b44fe579c2c",
+      "title": "Thomas Preset",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "Adjustment"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset MODES.txt",
+      "hash": "bbcbaac97c522ce7c279732462b85f116777b8b02436b4e291b67482870f0c66",
+      "title": "Thomas Preset",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "MODES"
+      ],
+      "author": "Thomas von Liptak",
       "priority": 0
     },
     {
