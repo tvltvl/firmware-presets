@@ -1,15 +1,9 @@
-#$ TITLE: Thomas OSD
+#$ TITLE: Thomas LED
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: Thomas, OSD
+#$ KEYWORDS: Thomas
 #$ AUTHOR: Thomas von Liptak
-
-#$ PARSER: MARKED
-
-#$ DESCRIPTION: Information:
-
-defaults nosave
 
 
 # led
@@ -18,5 +12,3 @@ led 1 1,0::L:0
 led 2 2,0::L:0
 led 3 3,0::G:1
 led 4 4,0::L:5
-
-# save configuration
