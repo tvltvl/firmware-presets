@@ -4,7 +4,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Thomas, LED
 #$ AUTHOR: Thomas von Liptak
-#$ DESCRIPTION: Installs Thomas LED settings 
+#$ DESCRIPTION: LED settings Nazgul F5 
 
 
 
