@@ -4,12 +4,8 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Thomas, OSD
 #$ AUTHOR: Thomas von Liptak
+#$ DESCRIPTION: Installs Thomas OSD settings
 
-#$ PARSER: MARKED
-
-#$ DESCRIPTION: Information:
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION: OSD settings
 
 set osd_warn_core_temp = OFF
 set osd_warn_rssi = ON
