@@ -1,4 +1,4 @@
-#$ TITLE: Thomas OSD
+#$ TITLE: Thomas Preset
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
@@ -9,14 +9,7 @@
 
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: General DJI **with GPS** OSD setup
-#$ DESCRIPTION: 
-#$ DESCRIPTION: OSD Elements Include:
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION: Vbat, Amps, mAh drawn, Armed Time, Time Remaining, VTX Power, Uplink Power, RSSI, etc...
-#$ DESCRIPTION: 
-#$ DISCUSSION: None
-#$ INCLUDE: presets/4.3/osd/defaults.txt
+#$ DESCRIPTION: OSD settings
 
 set osd_warn_core_temp = OFF
 set osd_warn_rssi = ON
