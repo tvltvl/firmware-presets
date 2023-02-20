@@ -850,8 +850,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset LED - BOB57.txt",
-      "hash": "ffe46adae6f0eeb31e302686c15ab75b0600c9dc3a417a907059ac39fed8270a",
-      "title": "Thomas Preset",
+      "hash": "b65532043118908844fbcc4794e1163b9ca7181a7260cfe905a6f1596e72a5e8",
+      "title": "Thomas Preset LED BOB57",
       "firmware_version": [
         "4.3"
       ],
@@ -866,8 +866,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset LED Chimera 7.txt",
-      "hash": "8dfbdbbee158288e769735035bdaf93ee2486faf3d089fd9b3c4f2b8fd30143e",
-      "title": "Thomas Preset",
+      "hash": "abc9c919c4b5e1b879484aafd3ede80416ee31ddf02b493ceb687a5dffe59cce",
+      "title": "Thomas Preset LEDS Chimera 7",
       "firmware_version": [
         "4.3"
       ],
@@ -882,8 +882,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset LED Nazgul F5.txt",
-      "hash": "85c94d6074845bfda21c6782163e2d6cabf5a904189bae09eaffcd548a97a3a8",
-      "title": "Thomas Preset",
+      "hash": "411b4d4c4e331f698edb07f9d3ba7772c642aa04824f7b9e3b877d6817ce83c6",
+      "title": "Thomas Preset LEDS Nazgul F5",
       "firmware_version": [
         "4.3"
       ],
