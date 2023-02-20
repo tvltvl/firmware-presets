@@ -189,8 +189,6 @@
       "10in",
       "111hz",
       "150Hz",
-      "15Hz",
-      "166Hz",
       "1S",
       "2.5in",
       "2.5W",
@@ -216,7 +214,6 @@
       "500Hz",
       "50Hz",
       "533",
-      "55Hz",
       "5in",
       "6 inch",
       "6\"",
@@ -310,8 +307,6 @@
       "freetyle",
       "frsky",
       "Garban",
-      "ghost",
-      "GHST",
       "GoPro",
       "GPS",
       "GTB339",
@@ -324,9 +319,7 @@
       "hot",
       "HV",
       "IllusionFpv",
-      "immersion",
-      "immersionRC",
-      "IRC",
+      "irc",
       "IRC Tramp",
       "justice",
       "karate",
@@ -343,7 +336,7 @@
       "Llama",
       "log",
       "logging",
-      "Long Range",
+      "long range",
       "mamba",
       "mck",
       "meteor",
@@ -378,15 +371,12 @@
       "PIDtoolbox",
       "pro32",
       "profile",
-      "Pure Race",
       "quaddiction",
       "quick",
       "race",
       "race rates ctzsnooze actual",
       "race v1",
       "race v2",
-      "Race250",
-      "Race500",
       "racing",
       "rates",
       "RC",
@@ -417,7 +407,6 @@
       "smart audio",
       "smartaudio",
       "smoothing",
-      "Solid250",
       "some",
       "Spec",
       "speedybee",
@@ -861,12 +850,12 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset LED.txt",
-      "hash": "915569a6a262122d6a3807e9119daf7997b71c3324b7fee695bcafa5ba4c5fee",
+      "hash": "77d88666d7e5cea5a503ef909efd68172bb794997b5ebf360d9a59abd2b67584",
       "title": "Thomas Preset",
       "firmware_version": [
         "4.3"
       ],
-      "category": "OSD",
+      "category": "LEDS",
       "status": "COMMUNITY",
       "keywords": [
         "Thomas",
@@ -2100,194 +2089,6 @@
       ],
       "author": "Ivan Efimov (Limon)",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/long_range.txt",
-      "hash": "d91208028b683edc8a6f0c6d8782791e99fe20094f9d51eeb5fd79b4112f5feb",
-      "title": "IRC Ghost (Long Range)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "15Hz",
-        "Long Range",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/normal.txt",
-      "hash": "942ac260c98fe68bcf99afd5d06e0b1c7dbff2a8decc06886e4bd99e0d1ebd73",
-      "title": "IRC Ghost (Mode: Normal)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "55Hz",
-        "Normal",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/pure_race.txt",
-      "hash": "2753b7b17816b61c78e103a6f195cc7552f236a974d87b203578d8a02590f82a",
-      "title": "IRC Ghost (Pure Race)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "250Hz",
-        "Pure Race",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/race.txt",
-      "hash": "fa9da1b07aaf305c77bece5ae2172cbcda3f5942c520dd37aecae9c60ddb0f03",
-      "title": "IRC Ghost (Mode: Race)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "166Hz",
-        "Race",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/race250.txt",
-      "hash": "80292f2f0d5252fad215e0bd31139974c702c1054330a7248ded5d7ba96309a3",
-      "title": "IRC Ghost (Race250)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "250Hz",
-        "Race250",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/race500.txt",
-      "hash": "d9d89cf88e744008f590f7fc128257a43f8c4e83a7feeadcf392f465646c10c1",
-      "title": "IRC Ghost (Race500)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "500Hz",
-        "Race500",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/ghost/solid250.txt",
-      "hash": "447b9ec20d3420938629d9c4933682aab5c9ac9bf3294f38e1814c4b0c20861a",
-      "title": "IRC Ghost (Solid250)",
-      "firmware_version": [
-        "4.3",
-        "4.4"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "250Hz",
-        "Solid250",
-        "ghost",
-        "rc",
-        "rx",
-        "link",
-        "ghost",
-        "IRC",
-        "GHST",
-        "immersionRC",
-        "immersion"
-      ],
-      "author": "Ivan Efimov (Limon)",
-      "force_options_review": true,
-      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/rc_link/redpine_666hz.txt",
