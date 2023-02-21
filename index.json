@@ -179,7 +179,6 @@
       "Sjoer van der Ploeg",
       "sugarK",
       "SupaflyFPV",
-      "Thomas von Liptak",
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
@@ -233,7 +232,6 @@
       "acro",
       "Acrobaix",
       "actual",
-      "Adjustment",
       "adjustments",
       "air unit",
       "AlexFPV",
@@ -287,7 +285,6 @@
       "expert",
       "express",
       "Extreme",
-      "FAILSAFE GPS-RESCUE",
       "feisar",
       "filter",
       "filtering",
@@ -329,7 +326,6 @@
       "launch_mode",
       "LeadFingers",
       "League",
-      "LED",
       "leds",
       "Limon",
       "link",
@@ -428,7 +424,6 @@
       "tbs sa",
       "Team Black Sheep",
       "Texas",
-      "Thomas",
       "Throttle cap",
       "tiny",
       "tiny tank",
@@ -814,118 +809,6 @@
         "OSD"
       ],
       "author": "Betaflight",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset ADJUSTMENT.txt",
-      "hash": "cef64547e64bae3e82443f4ea55dce99e8d0ac7a478b45036e517b44fe579c2c",
-      "title": "Thomas Preset",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "Adjustment"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset FAILSAFE GPS.txt",
-      "hash": "c351582d712b380c95af03af0b4c00bb97b7d51230c9d0f51d3a166b303e162b",
-      "title": "Thomas Preset",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "FAILSAFE GPS-RESCUE"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED - BOB57.txt",
-      "hash": "b65532043118908844fbcc4794e1163b9ca7181a7260cfe905a6f1596e72a5e8",
-      "title": "Thomas Preset LED BOB57",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LED"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED Chimera 7.txt",
-      "hash": "abc9c919c4b5e1b879484aafd3ede80416ee31ddf02b493ceb687a5dffe59cce",
-      "title": "Thomas Preset LEDS Chimera 7",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LED"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED Nazgul F5.txt",
-      "hash": "411b4d4c4e331f698edb07f9d3ba7772c642aa04824f7b9e3b877d6817ce83c6",
-      "title": "Thomas Preset LEDS Nazgul F5",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LED"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset MODES.txt",
-      "hash": "bbcbaac97c522ce7c279732462b85f116777b8b02436b4e291b67482870f0c66",
-      "title": "Thomas Preset",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "MODES"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset OSD.txt",
-      "hash": "892761b82feb328c1a0fb8dbc9dbcdacd720d9000d6a653b0195fe645272c76e",
-      "title": "Thomas Preset",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "OSD"
-      ],
-      "author": "Thomas von Liptak",
       "priority": 0
     },
     {
