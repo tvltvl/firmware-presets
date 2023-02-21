@@ -45,4 +45,5 @@ set osd_stat_bbox = OFF
 set osd_stat_bb_no = OFF
 set osd_stat_min_link_quality = ON
 set osd_stat_flight_dist = ON
+set osd_gps_sats_show_hdop = ON
 set osd_displayport_device = MSP
