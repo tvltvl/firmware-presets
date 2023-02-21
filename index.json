@@ -179,6 +179,7 @@
       "Sjoer van der Ploeg",
       "sugarK",
       "SupaflyFPV",
+      "Thomas von Liptak",
       "UAV Tech (Mark Spatz)"
     ],
     "keywords": [
@@ -232,6 +233,7 @@
       "acro",
       "Acrobaix",
       "actual",
+      "Adjustment",
       "adjustments",
       "air unit",
       "AlexFPV",
@@ -285,6 +287,7 @@
       "expert",
       "express",
       "Extreme",
+      "FAILSAFE",
       "feisar",
       "filter",
       "filtering",
@@ -306,6 +309,7 @@
       "Garban",
       "GoPro",
       "GPS",
+      "GPS-RESCUE",
       "GTB339",
       "gyroflow",
       "HD",
@@ -326,6 +330,7 @@
       "launch_mode",
       "LeadFingers",
       "League",
+      "LED",
       "leds",
       "Limon",
       "link",
@@ -424,6 +429,7 @@
       "tbs sa",
       "Team Black Sheep",
       "Texas",
+      "Thomas",
       "Throttle cap",
       "tiny",
       "tiny tank",
@@ -809,6 +815,119 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset ADJUSTMENT.txt",
+      "hash": "1293a0093159967e8167222e97f17186ac0c857868135fe087c24988537b06a5",
+      "title": "Thomas Preset Adjustment",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "Adjustment"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset FAILSAFE GPS.txt",
+      "hash": "333cbdce0bfe9e9cd9372231410652cfcb34f8174e7743a7193a4bea5b38119a",
+      "title": "Thomas Preset Failsafe GPS-rescue",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "FAILSAFE",
+        "GPS-RESCUE"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset LED - BOB57.txt",
+      "hash": "f7ea2ff81156da635181eb0438a37713af8160b63b363c3be8b59a9417e59d28",
+      "title": "Thomas Preset LEDS BOB57",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "LEDS"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset LED Chimera 7.txt",
+      "hash": "fc9b91af67406ed3fb4b9a34f7ad28672b52333350b1e97768546e99fc51152d",
+      "title": "Thomas Preset LEDS Chimera 7",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "LEDS"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset LED Nazgul F5.txt",
+      "hash": "67668c69fcb909b81482d99d56078dc69bafe5ac0e47e3f3abcf2ff4fc314e1a",
+      "title": "Thomas Preset LEDS Nazgul F5",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "LEDS",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "LED"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset MODES.txt",
+      "hash": "7d006174a8dc118470a40e96b5cd2e28bd6b36bd5670298959250b8af7626141",
+      "title": "Thomas Preset MODES",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "Modes"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset OSD.txt",
+      "hash": "fc7a39fe895720b77be7310f89a0aef2f38eb0f4864e8cd20484ab5d8bffe8c8",
+      "title": "Thomas Preset OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "OSD"
+      ],
+      "author": "Thomas von Liptak",
       "priority": 0
     },
     {
