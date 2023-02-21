@@ -1,6 +1,6 @@
-#$ TITLE: Thomas Preset LEDS Nazgul F5
+#$ TITLE: Thomas Preset LED Nazgul F5
 #$ FIRMWARE_VERSION: 4.3
-#$ CATEGORY: LEDS
+#$ CATEGORY: LED
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Thomas, LED
 #$ AUTHOR: Thomas von Liptak

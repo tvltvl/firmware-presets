@@ -1,10 +1,10 @@
-#$ TITLE: Thomas Preset
+#$ TITLE: Thomas Preset OSD
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Thomas, OSD
 #$ AUTHOR: Thomas von Liptak
-#$ DESCRIPTION: Installs Thomas OSD settings
+#$ DESCRIPTION: Thomas OSD settings
 
 
 set osd_warn_core_temp = OFF
