@@ -1,0 +1,13 @@
+#$ TITLE: Thomas Preset Adjustment
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Thomas, Adjustment
+#$ AUTHOR: Thomas von Liptak
+#$ DESCRIPTION: ADJUSTEMENT 
+
+# adjrange
+adjrange 0 0 1 900 2100 29 1 0 0
+adjrange 1 0 5 900 1200 12 5 0 0
+adjrange 2 0 5 1400 1600 12 5 0 0
+adjrange 3 0 5 1800 2100 12 5 0 0
