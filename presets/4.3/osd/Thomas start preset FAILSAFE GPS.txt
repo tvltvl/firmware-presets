@@ -8,7 +8,7 @@
 
 
 # rxfail
-rxfail 3 s 1500
+rxfail 3 s 1300
 rxfail 7 s 1500
 
 # master
@@ -17,12 +17,12 @@ set failsafe_procedure = GPS-RESCUE
 set gps_provider = UBLOX
 set gps_sbas_mode = EGNOS
 set gps_ublox_use_galileo = ON
+set gps_set_home_point_once = ON
 set gps_rescue_angle = 40
 set gps_rescue_initial_alt = 30
 set gps_rescue_descent_dist = 30
-set gps_rescue_ground_speed = 800
-set gps_rescue_throttle_max = 1700
-set gps_rescue_ascend_rate = 150
+set gps_rescue_ground_speed = 700
+set gps_rescue_ascend_rate = 300
 set gps_rescue_descend_rate = 100
 set gps_rescue_sanity_checks = RESCUE_SANITY_FS_ONLY
 set gps_rescue_min_sats = 5
