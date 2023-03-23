@@ -818,22 +818,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Thomas start preset ADJUSTMENT.txt",
-      "hash": "1293a0093159967e8167222e97f17186ac0c857868135fe087c24988537b06a5",
-      "title": "Thomas Preset Adjustment",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "Adjustment"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/osd/Thomas start preset FAILSAFE GPS.txt",
       "hash": "73183962f6f92a3026aa91ef887547d4ce737807793591583297301682f6bb46",
       "title": "Thomas Preset Failsafe GPS-rescue",
@@ -899,9 +883,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/Thomas start preset MODES.txt",
-      "hash": "7d006174a8dc118470a40e96b5cd2e28bd6b36bd5670298959250b8af7626141",
-      "title": "Thomas Preset MODES",
+      "fullPath": "presets/4.3/osd/Thomas start preset MODES and ADJUSTMENT.txt",
+      "hash": "7774e6411be530a62295cb3a8e3b15ef54f3705c1a0caeed2c144f984e0789fd",
+      "title": "Thomas Preset MODES and ADJUSTMENT",
       "firmware_version": [
         "4.3"
       ],
@@ -909,14 +893,15 @@
       "status": "COMMUNITY",
       "keywords": [
         "Thomas",
-        "Modes"
+        "Modes",
+        "Adjustment"
       ],
       "author": "Thomas von Liptak",
       "priority": 0
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset OSD.txt",
-      "hash": "6bdeb60e8c7d57134807db184553681eb8ad05ba7932aa28a607b64285b2a159",
+      "hash": "de4a5663bdecca94bacfca8aa889e2bae37c8e63328b500835c282c98a3914e0",
       "title": "Thomas Preset OSD",
       "firmware_version": [
         "4.3"
