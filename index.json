@@ -819,7 +819,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset FAILSAFE GPS.txt",
-      "hash": "73183962f6f92a3026aa91ef887547d4ce737807793591583297301682f6bb46",
+      "hash": "69b34b18cf97ad1082810867ff5bc73cdae6a5b3a0baa5b8b2f080eaad622aa2",
       "title": "Thomas Preset Failsafe GPS-rescue",
       "firmware_version": [
         "4.3"
@@ -901,7 +901,7 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset OSD.txt",
-      "hash": "de4a5663bdecca94bacfca8aa889e2bae37c8e63328b500835c282c98a3914e0",
+      "hash": "892d983512fba696ffb7f7dedb0de9698bf9a8cac04220d30b60691d96a281b9",
       "title": "Thomas Preset OSD",
       "firmware_version": [
         "4.3"
