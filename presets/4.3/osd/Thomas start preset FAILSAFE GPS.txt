@@ -14,6 +14,12 @@ rxfail 7 s 1500
 # master
 set failsafe_delay = 3
 set failsafe_procedure = GPS-RESCUE
+set vbat_max_cell_voltage = 420
+set vbat_min_cell_voltage = 350
+set vbat_warning_cell_voltage = 360
+set vbat_scale = 111
+set ibata_scale = 205
+set small_angle = 180
 set gps_provider = UBLOX
 set gps_sbas_mode = EGNOS
 set gps_ublox_use_galileo = ON
@@ -27,3 +33,4 @@ set gps_rescue_descend_rate = 100
 set gps_rescue_sanity_checks = RESCUE_SANITY_FS_ONLY
 set gps_rescue_min_sats = 5
 set gps_rescue_min_dth = 50
+set report_cell_voltage = ON
