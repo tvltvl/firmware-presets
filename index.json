@@ -379,7 +379,7 @@
       "race v1",
       "race v2",
       "racing",
-      "rates",
+      "RATES",
       "RC",
       "rc link",
       "rc_link",
@@ -911,6 +911,22 @@
       "keywords": [
         "Thomas",
         "OSD"
+      ],
+      "author": "Thomas von Liptak",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Thomas start preset RATES.txt",
+      "hash": "0ccb9e5a1eb6e02d084b1142f3037d44945479f49fbf0982327a30f10bd7ac07",
+      "title": "Thomas Preset Rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Thomas",
+        "RATES"
       ],
       "author": "Thomas von Liptak",
       "priority": 0
