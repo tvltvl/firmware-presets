@@ -16,6 +16,7 @@ set failsafe_delay = 5
 set failsafe_procedure = GPS-RESCUE
 set vbat_max_cell_voltage = 420
 set vbat_min_cell_voltage = 350
+set vbat_warning_cell_voltage = 355
 set vbat_scale = 111
 set ibata_scale = 192
 set gps_provider = UBLOX

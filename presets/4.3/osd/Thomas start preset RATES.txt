@@ -20,6 +20,7 @@ set yaw_expo = 40
 set roll_srate = 55
 set pitch_srate = 55
 set yaw_srate = 50
+set tpa_rate = 50
 
 rateprofile 1
 
