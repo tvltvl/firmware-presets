@@ -12,7 +12,6 @@ rxfail 3 s 1300
 rxfail 7 s 1500
 
 # master
-
 set failsafe_delay = 5
 set failsafe_procedure = GPS-RESCUE
 set vbat_max_cell_voltage = 420
