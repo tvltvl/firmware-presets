@@ -136,6 +136,7 @@
       "3.5",
       "4.2",
       "4.3",
+      "4.3.2",
       "4.4"
     ],
     "category": [
@@ -248,6 +249,7 @@
       "bardwell",
       "basher",
       "basic",
+      "BAT",
       "betaflight",
       "blackbox",
       "BMS",
@@ -330,7 +332,6 @@
       "launch_mode",
       "LeadFingers",
       "League",
-      "LED",
       "leds",
       "Limon",
       "link",
@@ -801,26 +802,9 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/osd/defaults.txt",
-      "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
-      "title": "Default 4.3 OSD settings",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "OSD",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "OSD"
-      ],
-      "author": "Betaflight",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.3/osd/Thomas start preset FAILSAFE GPS.txt",
-      "hash": "cc87a99307ca6095dbc99b16ed72777242b57ab7fdca0a6251907aef5a480c3a",
-      "title": "Thomas Preset Failsafe GPS-rescue",
+      "hash": "fd6c3ab31b057798ef48b3fc43d822934498689554986fbad22d99db6e4ecc8a",
+      "title": "Thomas Preset Failsafe GPS-rescue BAT",
       "firmware_version": [
         "4.3"
       ],
@@ -829,62 +813,15 @@
       "keywords": [
         "Thomas",
         "FAILSAFE",
-        "GPS-RESCUE"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED - BOB57.txt",
-      "hash": "239d855eb5a5b03103cd291473a2b5791352afa7f5b4aaa479363ad10a1db8a2",
-      "title": "Thomas Preset LEDS BOB57",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LEDS"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED Chimera 7.txt",
-      "hash": "5aff2baa925f3bc7aa03867503ae2dae19fd17930e0b2b1cff6e633fc11244b9",
-      "title": "Thomas Preset LEDS Chimera 7",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LEDS"
-      ],
-      "author": "Thomas von Liptak",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/osd/Thomas start preset LED Nazgul F5.txt",
-      "hash": "67668c69fcb909b81482d99d56078dc69bafe5ac0e47e3f3abcf2ff4fc314e1a",
-      "title": "Thomas Preset LEDS Nazgul F5",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "LEDS",
-      "status": "COMMUNITY",
-      "keywords": [
-        "Thomas",
-        "LED"
+        "GPS-RESCUE",
+        "BAT"
       ],
       "author": "Thomas von Liptak",
       "priority": 0
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset MODES and ADJUSTMENT.txt",
-      "hash": "beb0f43b5d14dfe436c6e6e27769800baf4d65482a5b438f18ae7660f9f86dde",
+      "hash": "4c77e96c3d9b66d14374b8603518de5fab8941567a2b6cc5a497d67a24ff3969",
       "title": "Thomas Preset MODES and ADJUSTMENT",
       "firmware_version": [
         "4.3"
@@ -901,10 +838,10 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset OSD.txt",
-      "hash": "bb45528c02934e0e37f30d3f56f40e2d4b75aaf06bfbec97d78c3c600ae1bd9b",
+      "hash": "1d955b64a6e8d0dddd1db8290effca70e166c98fbde454fea0bfe7e0caa1930e",
       "title": "Thomas Preset OSD",
       "firmware_version": [
-        "4.3"
+        "4.3.2"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
@@ -917,10 +854,10 @@
     },
     {
       "fullPath": "presets/4.3/osd/Thomas start preset RATES.txt",
-      "hash": "0a473c3e5bf79737a8a1334e96abb9e1db3323419b13db9089d26e32fb56010e",
+      "hash": "91d84eb355577823ed5978ecfc271ec1811871506b65b159a8a2d92dab08bc25",
       "title": "Thomas Preset Rates",
       "firmware_version": [
-        "4.3"
+        "4.3.2"
       ],
       "category": "OSD",
       "status": "COMMUNITY",
