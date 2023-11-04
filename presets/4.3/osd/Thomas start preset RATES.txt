@@ -1,5 +1,5 @@
 #$ TITLE: Thomas Preset Rates
-#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.3.2
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Thomas, RATES
@@ -20,7 +20,6 @@ set yaw_expo = 40
 set roll_srate = 55
 set pitch_srate = 55
 set yaw_srate = 50
-set tpa_rate = 50
 
 rateprofile 1
 

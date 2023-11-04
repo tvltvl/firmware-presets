@@ -1,5 +1,5 @@
 #$ TITLE: Thomas Preset OSD
-#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.3.2
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: Thomas, OSD
@@ -9,15 +9,13 @@
 
 
 set osd_warn_visual_beeper = OFF
-set osd_warn_core_temp = OFF
-set osd_warn_rssi = ON
 set osd_warn_link_quality = ON
 set osd_warn_rssi_dbm = ON
 set osd_warn_over_cap = ON
-set osd_link_quality_alarm = 75
-set osd_rssi_dbm_alarm = -100
-set osd_cap_alarm = 3700
-set osd_alt_alarm = 40
+set osd_link_quality_alarm = 70
+set osd_rssi_dbm_alarm = -107
+set osd_cap_alarm = 2600
+set osd_alt_alarm = 36
 set osd_tim2 = 1
 set osd_vbat_pos = 32
 set osd_rssi_pos = 283
@@ -35,12 +33,12 @@ set osd_craft_name_pos = 489
 set osd_gps_speed_pos = 14688
 set osd_gps_lon_pos = 4209
 set osd_gps_lat_pos = 4241
-set osd_gps_sats_pos = 14358
+set osd_gps_sats_pos = 14357
 set osd_home_dir_pos = 14735
 set osd_home_dist_pos = 14830
 set osd_flight_dist_pos = 6336
 set osd_compass_bar_pos = 4139
-set osd_altitude_pos = 30775
+set osd_altitude_pos = 30774
 set osd_power_pos = 235
 set osd_warnings_pos = 14784
 set osd_avg_cell_voltage_pos = 14336
@@ -49,8 +47,9 @@ set osd_battery_usage_pos = 33184
 set osd_disarmed_pos = 14571
 set osd_nheading_pos = 78
 set osd_nvario_pos = 12717
+set osd_core_temp_pos = 12416
 set osd_rate_profile_name_pos = 14752
-set osd_efficiency_pos = 96
+set osd_efficiency_pos = 4192
 set osd_stat_max_dist = ON
 set osd_stat_endbatt = ON
 set osd_stat_min_rssi = OFF
